@@ -1,111 +1,96 @@
-# Hi 👋, I'm Abhishek Kumar
+# Abhishek Kumar
 
-🚀 **Tech Architect | .NET | Azure | Angular | Power BI**
-🧠 **Building scalable systems today | Transitioning into AI & Agentic Architectures**
-
----
-
-## 🏗️ About Me
-
-I’m a software professional with **15+ years of experience** designing and building enterprise-grade systems.
-
-* 🔹 Years in architecture, system design & technical leadership
-* 🔹 Strong focus on **scalability, observability, and distributed systems**
+Tech Architect focused on designing scalable, distributed systems on .NET and Azure.
+Currently transitioning into AI systems and agentic architectures.
 
 ---
 
-## 🔥 What I Do
+## About
 
-* Architect **cloud-native applications** using .NET & Azure
-* Design **microservices with CQRS, MediatR & clean architecture**
-* Build **enterprise Angular applications**
-* Implement **observability systems** (Grafana, Application Insights)
-* Deliver **data insights using Power BI**
+I have 14+ years of experience building and evolving enterprise software systems.
+
+My work spans hands-on development, system design, and technical leadership, with a consistent focus on scalability, observability, and long-term maintainability.
 
 ---
 
-## 🧠 Current Focus: AI Engineering & System Design
+## What I Work On
 
-* 🤖 AI Agents & orchestration workflows
-* 🧩 MCP server design & tool integration
-* 📄 Document intelligence (OCR, extraction, translation)
-* ⚙️ Designing **AI-powered backend systems**
+* Designing cloud-native applications using .NET and Azure
+* Building microservices with CQRS and clean architecture principles
+* Developing enterprise Angular applications
+* Implementing observability using Grafana and Application Insights
+* Delivering data insights through Power BI
 
 ---
 
-## 🛠️ Tech Stack
+## How I Approach Systems
 
-**Backend**
+* Apply CQRS where read and write concerns diverge in scale or complexity
+* Design for observability from the start, not as a retrofit
+* Optimize for cost and performance in cloud environments
+* Prioritize extensibility in systems expected to evolve over time
 
-* .NET Core, Web API, CQRS, MediatR, NodeJs
+---
 
-**Frontend**
+## Current Focus
 
-* Angular
+* AI agents and orchestration patterns
+* MCP server design and tool integration
+* Document processing pipelines (extraction, transformation, translation)
+* Backend systems that incorporate AI capabilities
 
-**Cloud & DevOps**
+---
 
-* Azure (RBAC, IAM, Monitoring, App Services)
-* GitHub, CI/CD
+<p align="Left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" title=".NET" />
 
-**Data & Analytics**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" title="C#" />
 
-* SQL Server, Cosmos DB, MongoDB
-* Power BI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" title="Angular" />
 
-**Observability**
+<!-- Updated Azure (official modern logo from Microsoft) -->
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="36" title="Azure" />-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure" />
 
-* Grafana, Application Insights
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" title="MongoDB" />
 
-## 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" title="SQL Server" />
 
-<p align="Center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" title="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" title="SQL Server" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="36" title="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="36" title="Grafana" />
-</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="36" title="Power BI" />
 
-<p align="left">
-  🧠 AI Agents | MCP | LLM Integration
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="36" title="Grafana" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="36" title="Azure DevOps / Pipelines" style="margin-right: 10px;" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="CI/CD (GitHub Actions)" />
+
 </p>
 
 ---
 
-## 🧩 Featured Projects (Work in Progress 🚧)
+## Selected Work
 
-* 🔹 Law Management Platform (Microservices + Multi-tenant Angular)
-* 🔹 Manuscript Editing Service (AI-assisted editing workflows)
-* 🔹 API Monitoring & Billing Dashboard (Power BI + backend integration)
+* Law Management Platform *(placeholder)*
+  Multi-tenant system for managing case lifecycles, scheduling, and documents
 
----
+* Manuscript Editing Service *(placeholder)*
+  Structured editing workflows with AI-assisted processing
 
-## 🏛️ Architecture Interests
+* API Monitoring and Billing System *(placeholder)*
+  Tracks vendor usage, caching behavior, and customer billing
 
-* Distributed Systems & Event-driven Architecture
-* Multi-tenant SaaS platforms
-* High-scale API design
-* AI + backend system integration
-
----
-
-## 📈 What You'll See Here
-
-This GitHub will increasingly showcase:
-
-* Real-world **architecture-driven projects**
-* **AI system design experiments**
-* Scalable backend implementations
-* Practical enterprise patterns
+* AI Agent Orchestration *(placeholder)*
+  Intent-driven system coordinating agents and external tools
 
 ---
 
-## 🤝 Let's Connect
+## Interests
 
-* 💼 LinkedIn: (add your link here)
+Distributed systems, event-driven architecture, multi-tenant SaaS design, and the integration of AI into backend platforms.
 
 ---
 
-⭐ *Currently building towards AI-focused architecture roles and engineering leadership in GenAI systems*
+## Contact
+
+LinkedIn: (add link)
